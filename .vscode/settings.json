@@ -23,5 +23,9 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "files.associations": {
+    "testee.C": "cpp",
+    "programaC.C": "cpp"
+  }
 }
